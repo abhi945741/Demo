@@ -1,0 +1,27 @@
+===== FILE OPERATIONS DEMO =====
+
+STEP 1: Writing initial data to file...
+✅ Data written successfully.
+
+Reading file after write:
+Hello, this is the first line.
+This is the second line.
+-----------------------------------
+
+STEP 2: Appending new data...
+✅ Data appended successfully.
+
+Reading file after append:
+Hello, this is the first line.
+This is the second line.
+This is an appended line.
+-----------------------------------
+
+STEP 3: Overwriting file with new data...
+✅ File overwritten successfully.
+
+Reading file after overwrite:
+This file has been overwritten with new data.
+-----------------------------------
+
+===== DEMO FINISHED SUCCESSFULLY =====
